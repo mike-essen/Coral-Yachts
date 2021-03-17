@@ -441,7 +441,7 @@
                         <a class="d-inline-block"><img style="max-height: 245px;" src="{{ asset('images/-steen.jpg') }}"
                                                        class="img-fluid d-block m-auto" alt=""></a>
                         <div class="r-latest-news-content">
-                            <span class="r-date">27 JUNE 2018</span>
+                            <span class="r-date">03-29-2020</span>
                             <h4 style="color: #ffcd00;">After more then a year of searching: Steen was found on our
                                 yacht by a Drunk wizard, a smoking teen and the CEO of the Anti-suicide hotline!</h4>
                         </div>
@@ -560,7 +560,6 @@
 
 <!-- JQUERY:: CUSTOM.JS -->
 <script src="{{ asset('js/custom.js') }}"></script>
-<script></script>
 </body>
 
 </html>
