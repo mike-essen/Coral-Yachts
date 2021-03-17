@@ -560,6 +560,7 @@
 
 <!-- JQUERY:: CUSTOM.JS -->
 <script src="{{ asset('js/custom.js') }}"></script>
+<script></script>
 </body>
 
 </html>
