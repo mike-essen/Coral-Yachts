@@ -1,0 +1,10 @@
+Voor de code review opdracht 5.2
+moeten wij elkaars code reviewen.
+Aangezien wij wat problemen hebben gehad met github staan er minder commits in dan origineel maar we hebben wel beide stukken code aangeleverd.
+Wij schrijven deze review daarom ook samen.
+
+Na de commits hebben wij elkaar wat tips gegeven wat beter kon dit ging nog voornamelijk over de frontend en hebben dit ook gelijk verbeterd.
+een voorbeeld hiervan was toen we alle code om gingen zetten zodat we met laravel konden werken dat sommige code niet meer werkte dit heb ik mike bijvoorbeeld als tip gegeven om dig gelijk te fixen.
+Mike had mij nog de tip gegeven om de bestanden wat beter vindbaar te maken doormiddel van betere namen.
+
+verder hebben wij niet veel te reviewen aangezien we erg nauw samen hebben gewerkt en hierdoor in het process gelijk al alles gefixt werd.
